@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "816031137284",
+    "project_id": "readwell-28905",
+    "storage_bucket": "readwell-28905.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816031137284:android:e2a2d42cd2bbc5336cbf51",
+        "android_client_info": {
+          "package_name": "com.example.readwell_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiGFMp2eNt96CDPJSGnhYduJou1LrPsAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
